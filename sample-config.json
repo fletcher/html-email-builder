@@ -1,0 +1,6 @@
+{
+	"sender" : {
+		"name" : "Sender Name",
+		"email": "sender@email.address.com"
+	}
+}

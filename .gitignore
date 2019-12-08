@@ -1,0 +1,14 @@
+api.key
+
+# Ignore these
+*.json
+*.md
+*.html
+*.css
+
+# But not these
+!footer.html
+!footer.md
+!header.md
+!sample-config.json
+!responsive-html-email-template.css
